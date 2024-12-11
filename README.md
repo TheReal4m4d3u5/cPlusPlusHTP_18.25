@@ -1,4 +1,4 @@
-# cPlusPlusHTP_18.25
+# cPlusPlusHTP_18.25 Alphabet Pyramid
 
 Write a program that generates the following from the string "abcdefghijklmnopqrstuvwxyz":
 
